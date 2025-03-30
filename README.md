@@ -1,6 +1,6 @@
 ### Hi there I'm Haley! 
 
-I'm an experienced Tech Entrepreneur, having founded Revolv.  We were part of the TechStars Boulder class of 2012 and were acquired by Google/Next in 2104.  I ran the engineering team and had full responsibility over our product delivery.
+I'm an experienced Tech Entrepreneur, having founded Revolv.  We were part of the TechStars Boulder class of 2012 and were acquired by Google/Nest in 2104.  I ran the engineering team and had full responsibility over our product delivery.
 
 I've got a wealth of interesting experience, starting from the most recent:
 * Currently working for Apple building amazing products
